@@ -19,4 +19,4 @@ I have recently started coding and have gotten more serious about it.
                           
                       <a href="https://www.github.com/VaughnP0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.linkedin.com/in/Vaughn Paul" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+                      <a href="https://www.linkedin.com/in/vaughn-paul-5ab78299" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
